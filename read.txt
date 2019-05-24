@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is E23D-D67D
+
+ Directory of C:\Users\176501\workspace\rekha\second\src
+
+24-05-2019  12:36    <DIR>          .
+24-05-2019  12:36    <DIR>          ..
+24-05-2019  12:36                 0 read.txt
+24-05-2019  12:27    <DIR>          second
+24-05-2019  12:32               393 text.txt
+               2 File(s)            393 bytes
+               3 Dir(s)  287,216,259,072 bytes free
